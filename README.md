@@ -21,7 +21,7 @@ aplicando soluciones creativas y eficientes en entornos colaborativos.
 ---
 
 ## 🌐 Conectemos
-- 💼 [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/diego-costantinoo))  
+- 💼 LinkedIn: https://www.linkedin.com/in/diego-costantinoo
 - 📧 dcostantino23@gmail.com
   
  
