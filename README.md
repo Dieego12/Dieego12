@@ -6,8 +6,8 @@ Me apasiona crear aplicaciones modernas, escalables y con buenas prácticas de c
 ---
 
 ## 🧑‍💻 Tecnologías y herramientas varias
-- Lenguajes: Kotlin, C#, Java, JavaScript, HTML5, CSS3, SQL  
-- Frameworks y entornos: Android Studio, .NET, Node.js  
+- Lenguajes: Kotlin, C#, Java, JavaScript, HTML5, CSS3 
+- Frameworks y entornos: Android Studio, .NET, Node.js, springboot  
 - Bases de datos: SQL Server, MySQL, MockAPI  
 - Control de versiones: Git & GitHub  
 - Otros: Desarrollo web, móvil y escritorio
