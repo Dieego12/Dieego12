@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hola, soy Diego Costantino  
 
-<!--
-**Dieego12/Dieego12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Un Desarrollador de Software en Argentina, en la etapa final de mi carrera estudiantil.  
+Me apasiona crear aplicaciones modernas, escalables y con buenas prácticas de código.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Tecnologías y herramientas varias
+- Lenguajes: Kotlin, C#, Java, JavaScript, HTML5, CSS3, SQL  
+- Frameworks y entornos: Android Studio, .NET, Node.js  
+- Bases de datos: SQL Server, MySQL, MockAPI  
+- Control de versiones: Git & GitHub  
+- Otros: Desarrollo web, móvil y escritorio
+- 
+---
+
+## 📈 Objetivo profesional
+Mi objetivo es continuar creciendo como Desarrolador en roles de cada vez mayor importancia
+aplicando soluciones creativas y eficientes en entornos colaborativos.  
+
+---
+
+## 🌐 Conectemos
+- 💼 [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/diego-costantinoo))  
+- 📧 dcostantino23@gmail.com
+  
+ 
+!!Gracias por tu tiempo!!
