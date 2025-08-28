@@ -11,7 +11,7 @@ Me apasiona crear aplicaciones modernas, escalables y con buenas prácticas de c
 - Bases de datos: SQL Server, MySQL, MockAPI  
 - Control de versiones: Git & GitHub  
 - Otros: Desarrollo web, móvil y escritorio
-- 
+
 ---
 
 ## 📈 Objetivo profesional
